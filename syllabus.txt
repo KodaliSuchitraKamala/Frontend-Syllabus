@@ -3,3 +3,4 @@ Learning Path of frontend web development
 2. CSS
 3. JavaScript
 4. Frameworks
+5. Git and Github[version control]
