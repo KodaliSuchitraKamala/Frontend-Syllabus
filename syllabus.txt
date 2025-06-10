@@ -3,4 +3,6 @@ Learning Path of frontend web development
 2. CSS
 3. JavaScript
 4. Frameworks
-5. Git and Github[version control]
+5. Git and GitHub [version control]
+6. How to upload files in web server
+7. Get Practical files
